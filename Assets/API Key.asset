@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2006c7a2843279e4598781ed39185dd0, type: 3}
+  m_Name: API Key
+  m_EditorClassIdentifier: 
+  epicProductName: Battlebots
+  epicProductVersion: 0.1
+  epicProductId: 3951c4052c0448fbba2be871a3094a18
+  epicSandboxId: 54b93bfc82de4a109976d8795fa5fca4
+  epicDeploymentId: 97bc3beac3e24aaca0a05058e0eb2cde
+  epicClientId: xyza7891Wq6TQeHqJSEEl25B8pqT5zrh
+  epicClientSecret: gZmMBDe9uB7u8xIlRtIGFiqFCkOlBHwlAaGiqB/TlRQ
